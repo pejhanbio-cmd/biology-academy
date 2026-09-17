@@ -1,0 +1,10 @@
+function App() {
+  return (
+    <div style={{ textAlign: 'center', marginTop: '50px', fontFamily: 'Vazirmatn' }}>
+      <h1 style={{ color: '#2D5016' }}>🌿 به acadmyBIOLOGY خوش آمدید 🌿</h1>
+      <p>سایت در حال ساخت است...</p>
+    </div>
+  )
+}
+
+export default App
